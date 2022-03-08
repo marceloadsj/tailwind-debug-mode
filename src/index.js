@@ -23,7 +23,7 @@ const debug = plugin.withOptions(function (
         height: '50px !important',
         display: 'flex !important',
         alignItems: 'center !important',
-        justifyContent: 'end !important',
+        justifyContent: 'flex-end !important',
         background: `${options.wireColor} !important`,
         padding: '0 1rem !important',
         fontWeight: '500 !important',
